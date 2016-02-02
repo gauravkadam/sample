@@ -1,0 +1,68 @@
+#mainc{
+padding:10px;
+
+}
+p{
+text-align:justify;
+}
+
+
+#brandname{
+text-align:center;
+padding-top:10px;
+color:white;
+font-size:30px;
+}
+#textleft{
+padding:10px;
+float:left;
+}
+#textalign{
+float:left;
+}
+
+#leftimage{
+float:left;
+}
+.bg-4 { 
+	clear:both;
+	padding:15px;
+	border-radius:3px;
+	width:100%;
+    background-color: #4C4145;
+    color: #ffffff;
+	
+}
+#footeralign{
+text-align:left;
+padding-top:10px;
+}
+
+#contactalign{
+padding-top:40px;
+text-align:left;
+}
+
+#brandquote{
+text-align:center;
+padding-bottom:10px;
+padding-top:0px;
+color:white;
+font-size:15px;
+}
+#googleMap{
+height:150px;
+width:85%;
+border-radius:10px;
+}
+.labelstyle{
+
+font-family: 'Roboto', sans-serif;
+font-size:20px;
+padding:10px;
+
+}
+.financeimage
+{
+padding:10px;
+}
